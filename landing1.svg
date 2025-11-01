@@ -1,0 +1,33 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#FFD700"/> <!-- Yellow background -->
+
+    <!-- Job Search UI -->
+    <rect x="180" y="120" width="440" height="320" rx="20" fill="white" stroke="red" stroke-width="5"/>
+
+    <!-- Search Bar -->
+    <rect x="220" y="150" width="360" height="40" rx="10" fill="#FF5733"/>
+    <circle cx="540" cy="170" r="15" fill="white"/>
+    <line x1="547" y1="177" x2="560" y2="190" stroke="black" stroke-width="3"/>
+
+    <!-- Job Listings -->
+    <rect x="220" y="210" width="360" height="40" fill="#FFC300"/>
+    <rect x="220" y="260" width="360" height="40" fill="#FF5733"/>
+    <rect x="220" y="310" width="360" height="40" fill="#C70039"/>
+
+    <!-- Magnifying Glass -->
+    <circle cx="600" cy="400" r="50" fill="#FF5733"/>
+    <line x1="630" y1="430" x2="660" y2="460" stroke="black" stroke-width="8"/>
+
+    <!-- Profile Card -->
+    <rect x="550" y="180" width="180" height="120" rx="15" fill="white" stroke="black" stroke-width="3"/>
+    <circle cx="640" cy="220" r="30" fill="#FF5733"/>
+    <rect x="580" y="260" width="120" height="20" fill="#FFC300"/>
+
+    <!-- Decorative Elements -->
+    <circle cx="100" cy="100" r="40" fill="red"/>
+    <circle cx="700" cy="500" r="30" fill="#FF5733"/>
+
+    <!-- Text -->
+    <text x="250" y="500" font-size="30" font-family="Arial" fill="black">Find Your Perfect Job!</text>
+</svg>
